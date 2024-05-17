@@ -1,0 +1,57 @@
+public function apagar()
+
+Buscar
+
+Revisar
+
+Vista
+
+Ayuda
+
+Formato de imagen
+
+진
+
+AaBbCc[
+
+AaBbCc[
+
+AaBbCc[
+
+AaBb
+
+Normal
+
+Párrafo... I
+
+Sin espa...
+
+Table
+
+Estilos
+
+}
+
+echo "Apagando el carro </br>"; $this->estadoCarro "apagado";
+
+echo "Carro apagado </br>";
+
+public function acelerar (Srapidez)
+
+{
+
+}
+
+echo "Acelerando el carroo!!!! </br>"; $this->velocidad $this->velocidad $rapidez;
+
+echo "Cuidado, la velocikad es:" $this->velocidad </br>";
+
+public function subirPasajero()
+
+{
+
+$this->personas++;
+
+echo "Tienes $this->personas pasajeros en el vehiculo </br>";
+
+}
