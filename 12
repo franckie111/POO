@@ -1,0 +1,21 @@
+<?php
+
+class Casa
+
+{
+
+private $precio = 0;
+
+public function _ construct($precio)
+
+{
+
+$this->precio = $precio; }
+
+public function aumentar Precio($precio)
+
+{ } return $this->precio = $this->precio $precio;
+
+}
+
+?>
