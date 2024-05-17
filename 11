@@ -1,0 +1,21 @@
+{ public function choque()
+
+if($this->velocidad >= 100)
+
+{
+
+echo "!!!!!Accidente!!!!! </br>";
+
+}
+
+else if($this->velocidad se)
+
+{
+
+echo "Cuidado con las foto multas </br>";
+
+}
+
+}
+
+}
